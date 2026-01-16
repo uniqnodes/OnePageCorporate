@@ -1,5 +1,3 @@
-# Client Requests (Summary)
-
 ## Style & Tone
 - Institutional, high-trust, executive-level corporate tone
 - Calm, restrained, conservative; no hype or sales language
